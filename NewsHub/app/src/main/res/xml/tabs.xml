@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        drawable="@drawable/home"
+        text="@string/home" />
+
+    <tab
+        drawable="@drawable/science"
+        text="@string/science" />
+
+    <tab
+        drawable="@drawable/sports"
+        text="@string/sports" />
+
+    <tab
+        drawable="@drawable/health"
+        text="@string/health" />
+
+    <tab
+        drawable="@drawable/entertainment"
+        text="@string/entertainment" />
+</tabs>

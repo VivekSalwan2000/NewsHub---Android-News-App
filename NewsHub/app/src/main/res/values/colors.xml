@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="primary">#1E88E5</color>
+    <color name="secondary">#757575</color>
+
+    <!-- Grayscale -->
+    <color name="light_gray">#F5F5F5</color>
+    <color name="dark_gray">#616161</color>
+
+    <color name="bottom_nav_item_color">#757575</color> <!-- Gray text color for items -->
+    <color name="bottom_nav_icon_color">#6200EE</color> <!-- Custom icon color (e.g., purple) -->
+
+    <color name="off_white">#D4D4D9</color> <!-- Gray text color for items -->
+
+
+
+</resources>

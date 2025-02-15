@@ -1,0 +1,6 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/no_pictures" /> <!-- Replace with your image name -->
+</layer-list>
+
+<!--Author attribute for this image-->
+<!--<a href="https://www.flaticon.com/free-icons/no-photo" title="no photo icons">No photo icons created by Icon.doit - Flaticon</a>-->
