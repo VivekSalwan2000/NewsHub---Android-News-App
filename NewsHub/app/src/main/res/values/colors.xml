@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Brand Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="primary">#007AFF</color>  <!-- Apple Blue -->
+    <color name="accent">#D1D1D6</color>  <!-- Apple Gray -->
+    <color name="off_white">#E5E5EA</color> <!-- Soft white/gray background -->
+    <color name="light_gray">#F5F5F5</color>  <!-- Light Gray for backgrounds -->
+    <color name="dark_gray">#616161</color>   <!-- Dark Gray for text -->
+    <color name="secondary">#757575</color>   <!-- Secondary text color -->
+    <color name="secondary2">#F4F4F4</color>
+
+
+    <!-- Backgrounds -->
+    <color name="background_light">#F8F9FA</color>  <!-- White for light mode -->
+    <color name="background_dark">#1C1C1E</color>  <!-- Apple’s dark mode background -->
+
+
+
+    <!-- Text Colors -->
+    <color name="text_primary">#1C1C1E</color>  <!-- Dark Gray for text -->
+    <color name="text_secondary">#8E8E93</color>  <!-- Light Gray for secondary text -->
+
+    <!-- Cards -->
+    <color name="card_background">#F2F2F7</color>  <!-- Soft Light Gray -->
+
+    <!-- Bottom Navigation -->
+    <color name="bottom_nav_item_color">#8E8E93</color>  <!-- Muted Apple Gray -->
+    <color name="bottom_nav_icon_color">#007AFF</color>  <!-- Blue for selected tab -->
+</resources>

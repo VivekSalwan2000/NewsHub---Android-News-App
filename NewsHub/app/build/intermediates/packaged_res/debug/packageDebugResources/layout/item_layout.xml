@@ -1,0 +1,95 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/rounded_corners"
+    android:orientation="vertical"
+    android:elevation="5dp"
+    android:padding="5dp"
+    android:layout_margin="3dp">
+
+    <!-- Title and Bookmark Icon Section (Horizontal Layout) -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:orientation="horizontal">
+
+        <!-- News Headline TextView -->
+        <TextView
+            android:id="@+id/headline"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:fontFamily="sans-serif-medium"
+            android:paddingEnd="6dp"
+            android:text="News Headline"
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <!-- Bookmark Icon -->
+        <ImageView
+            android:id="@+id/bookmarkIcon"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:contentDescription="Bookmark Icon"
+            android:src="@drawable/ic_add_bookmark" />
+    </LinearLayout>
+
+    <!-- Content Section -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/description"
+            android:layout_width="0dp"
+            android:layout_height="130dp"
+            android:layout_marginEnd="4dp"
+            android:layout_weight="1"
+            android:background="@color/light_gray"
+            android:gravity="center"
+            android:padding="6dp"
+            android:text="Text goes here..."
+            android:textColor="@color/dark_gray"
+            android:textSize="12sp" />
+
+        <ImageView
+            android:id="@+id/newsImageView"
+            android:layout_width="0dp"
+            android:layout_height="130dp"
+            android:layout_marginStart="4dp"
+            android:layout_weight="1"
+            android:background="@color/light_gray"
+            android:contentDescription="News Image"
+            android:scaleType="centerCrop" />
+    </LinearLayout>
+
+    <!-- Author and Published At Section (Vertical Layout) -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="9dp"
+        android:orientation="vertical"
+        android:padding="8dp">
+
+        <TextView
+            android:id="@+id/author"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Author Name"
+            android:textColor="@color/primary"
+            android:textSize="10sp" />
+
+        <TextView
+            android:id="@+id/publishedAt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Published Date"
+            android:textColor="@color/secondary"
+            android:textSize="10sp" />
+    </LinearLayout>
+
+</LinearLayout>

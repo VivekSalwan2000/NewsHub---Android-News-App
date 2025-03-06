@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/home"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/nav_science"
+        android:icon="@drawable/science"
+        android:title="@string/science" />
+    <item
+        android:id="@+id/nav_sports"
+        android:icon="@drawable/sports"
+        android:title="@string/sports" />
+    <item
+        android:id="@+id/nav_health"
+        android:icon="@drawable/health"
+        android:title="@string/health" />
+    <item
+        android:id="@+id/nav_entertainment"
+        android:icon="@drawable/entertainment"
+        android:title="@string/entertainment" />
+</menu>

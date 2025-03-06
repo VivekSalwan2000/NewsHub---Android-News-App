@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Rounded Floating Button -->
+    <style name="FloatingButton">
+        <item name="android:backgroundTint">@color/primary</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:elevation">10dp</item>
+        <item name="android:padding">12dp</item>
+    </style>
+
+    <!-- Card Style (Uses a Drawable) -->
+    <style name="NewsCard">
+        <item name="android:background">@drawable/rounded_card</item> <!-- Uses a drawable -->
+        <item name="android:elevation">6dp</item>
+        <item name="android:padding">12dp</item>
+    </style>
+
+    <!-- Text Appearance -->
+    <style name="NewsTitle">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="NewsDescription">
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+</resources>

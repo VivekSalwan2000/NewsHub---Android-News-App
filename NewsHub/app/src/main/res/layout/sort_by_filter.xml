@@ -1,0 +1,33 @@
+<!-- res/layout/sort_by_filter.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/off_white"
+    android:padding="16dp"
+    android:gravity="center">
+
+    <!-- Sort By Filter Title -->
+    <TextView
+        android:id="@+id/sortByTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sort By"
+        android:textSize="16sp"
+        android:paddingBottom="8dp" />
+
+    <!-- Spinner for Sort By options -->
+    <Button
+        android:id="@+id/relevance"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="relevance"/>
+
+    <!-- Apply Button -->
+    <Button
+        android:id="@+id/applySortButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Apply"
+        android:layout_marginTop="8dp"/>
+</LinearLayout>

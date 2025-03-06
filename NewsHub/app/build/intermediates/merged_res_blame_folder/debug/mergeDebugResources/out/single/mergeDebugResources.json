@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/drawable_ic_bookmarks.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/drawable/ic_bookmarks.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/layout-land_activity_main.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/drawable_placeholder_image.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/drawable/placeholder_image.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/drawable_rounded_corners.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/drawable/rounded_corners.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/drawable_ic_home.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/drawable_rounded_search_background.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/drawable/rounded_search_background.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/layout_fragment_settings.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/layout_fragment_bookmark.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/layout/fragment_bookmark.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/layout_activity_main.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/drawable_no_pictures.png.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/drawable/no_pictures.png"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/font_roboto_light.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/font/roboto_light.xml"
+    },
+    {
+        "merged": "com.cosc3p97.newshub.app-debug-35:/layout_activity_main.xml.flat",
+        "source": "com.cosc3p97.newshub.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/drawable_sports.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/drawable/sports.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/layout_fragment_search.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/drawable_rounded_button.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/drawable/rounded_button.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/layout_item_layout.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/layout/item_layout.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/layout_fragment_science.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/layout/fragment_science.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/drawable_health.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/drawable/health.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/xml_backup_rules.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/xml_tabs.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/xml/tabs.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/layout_fragment_sports.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/layout/fragment_sports.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/menu_bottom_nav_menu.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/drawable_science.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/drawable/science.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/drawable_ic_add_bookmark.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/drawable/ic_add_bookmark.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/drawable_home.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/drawable/home.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/layout_activity_read_news.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/layout/activity_read_news.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/drawable_rounded_card.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/drawable/rounded_card.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/drawable_baseline_filter_alt_24.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/drawable/baseline_filter_alt_24.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/drawable_ic_bookmarked.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/drawable/ic_bookmarked.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/layout_fragment_health.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/layout/fragment_health.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/layout_sort_by_filter.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/layout/sort_by_filter.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/anim_slide_in.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/anim/slide_in.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-pngs-31:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/layout_fragment_home.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/layout-land_item_layout.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/layout-land/item_layout.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/layout-land_activity_read_news.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/layout-land/activity_read_news.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/drawable_baseline_settings_24.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/drawable/baseline_settings_24.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/layout_fragment_entertainment.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/layout/fragment_entertainment.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/drawable_error_shape.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/drawable/error_shape.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/drawable_entertainment.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/drawable/entertainment.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/layout_fragment_filter.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/layout/fragment_filter.xml"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-debug-35:/drawable_bottom_section_background.xml.flat",
+        "source": "/Users/viveksalwan/.gradle/daemon/8.7/com.cosc3p97.newshub.app-main-37:/drawable/bottom_section_background.xml"
+    }
+]
