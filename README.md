@@ -36,6 +36,10 @@
 7. **💫 Animations and Smooth UI**
     - RecyclerView with custom animations for better user experience.
 
+8. **📝 Article Summarizer**
+    - Uses the Hugging Face API to generate concise summaries.
+    - Summarizes a news article on a button click and displays a popup summary (between 100-200 words).
+
 ---
 
 ## 🚀 Setup Instructions
